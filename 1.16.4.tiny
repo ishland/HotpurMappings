@@ -5336,8 +5336,8 @@ CLASS	net/minecraft/client/main/Main$1	net/minecraft/client/main/Main$1	net/mine
 CLASS	net/minecraft/client/main/Main$2	net/minecraft/client/main/Main$2	net/minecraft/client/main/Main$2	net/minecraft/client/main/Main$2
 CLASS	net/minecraft/client/main/Main$3	net/minecraft/client/main/Main$3	net/minecraft/client/main/Main$3	net/minecraft/client/main/Main$3
 CLASS	net/minecraft/data/Main	net/minecraft/data/Main	net/minecraft/data/Main	net/minecraft/data/Main
-CLASS	net/minecraft/server/Main	net/minecraft/server/Main	net/minecraft/server/Main	net/minecraft/server/Main
-CLASS	net/minecraft/server/Main$1	net/minecraft/server/Main$1	net/minecraft/server/Main$1	net/minecraft/server/Main$1
+CLASS	net/minecraft/server/Main	net/minecraft/server/v1_16_R3/Main	net/minecraft/server/Main	net/minecraft/server/Main
+CLASS	net/minecraft/server/Main$1	net/minecraft/server/v1_16_R3/Main$1	net/minecraft/server/Main$1	net/minecraft/server/Main$1
 CLASS	net/minecraft/server/MinecraftServer	net/minecraft/server/v1_16_R3/MinecraftServer	net/minecraft/server/MinecraftServer	net/minecraft/server/MinecraftServer
 CLASS	net/minecraft/server/MinecraftServer$1	net/minecraft/server/v1_16_R3/MinecraftServer$1	net/minecraft/server/MinecraftServer$1	net/minecraft/server/MinecraftServer$1
 CLASS	net/minecraft/server/MinecraftServer$2	net/minecraft/server/v1_16_R3/MinecraftServer$2	net/minecraft/server/MinecraftServer$2	net/minecraft/server/MinecraftServer$2
